@@ -53,11 +53,11 @@ The Excel dashboard provides the following analytical views:
 
 - **Percentage of Sales by Category**
 
-- ![Sales by Category](screenshots/d_category%.png)
+- ![Sales by Category](screenshots/d_category.png)
 
 - **Sales by City**
 
-- ![Sales by City](screenshots/e_city%.png)
+- ![Sales by City](screenshots/e_city.png)
 
 - **Sales by Product (Quantity)**
 
